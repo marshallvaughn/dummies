@@ -1,0 +1,20 @@
+{
+  "properties": {
+    "names": {
+      "type": "array",
+      "description": "A list of names, first and last",
+      "contains": {
+        "properties": {
+          "first": {
+            "type": "string",
+            "description": "First name"
+          },
+          "last": {
+            "type": "string",
+            "description": "Last name"
+          }
+        }
+      }
+    }
+  }
+}
