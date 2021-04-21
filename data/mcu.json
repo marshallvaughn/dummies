@@ -40,5 +40,13 @@
       "first": "Stephen",
       "last": "Strange"
     }
+  ],
+  "companies": [
+    {
+      "name": "Wakanda Sciences"
+    },
+    {
+      "name": "Stark Technologies"
+    }
   ]
 }
