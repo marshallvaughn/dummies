@@ -12,3 +12,4 @@ A collection of dummy data for testing software.
 - [ ] Old School Crooners (Sammie Davis Jr., Frank Sinatra, Bing Crosby, etc.)
 - [ ] The Wu Tang Clan
 - [ ] Anchorman
+- [x] MCU (Marvel Cinematic Universse)
